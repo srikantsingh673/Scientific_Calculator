@@ -15,7 +15,7 @@ Create a scientific calculator to perform following mathematical  oprations.
 ⚫ Mean, median and mode 
 ⚫ Dictionary, variance and standard deviation
 
-For executing this python program you should must install this pip in your system :
+For executing this python program you must install this pip in your system :
 
 (1) NUMPY
     : pip install numpy

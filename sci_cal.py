@@ -1,3 +1,5 @@
+''' Scientific Calculator by Rishu '''
+
 import math
 import statistics
 from itertools import permutations
